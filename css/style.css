@@ -1,0 +1,6 @@
+table > tbody > tr > td:nth-child(1) {
+    text-align: right;
+    font-weight: bold;
+}
+table > tbody > tr > td:nth-child(2) {
+}
